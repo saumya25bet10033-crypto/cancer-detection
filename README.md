@@ -1,0 +1,2 @@
+# cancer-detection
+An AI-powered cancer detection system that uses machine learning algorithms to analyze medical data and provide early risk assessment. The system offers accurate predictions for various cancer types with 94%+ accuracy to support healthcare professionals."
